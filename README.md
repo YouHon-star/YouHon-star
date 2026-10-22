@@ -2,7 +2,7 @@
 
 # 幽鸿 · YoHon
 
-**独立开发者 · 后端与自动化 · 街机音游玩家**
+**独立开发者 · 前后端与自动化 · 街机音游玩家**
 <sub>*Indie developer · Backend & Automation · Arcade rhythm gamer*</sub>
 
 <br/>
@@ -13,8 +13,6 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen)
 
 <br/>
-
-**[中文](#中文)** &nbsp;·&nbsp; **[English](#english)**
 
 </div>
 
