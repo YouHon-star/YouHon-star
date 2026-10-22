@@ -82,6 +82,3 @@
 
 ---
 
-<div align="center">
-<sub>慢热，但认真。 · Slow to warm up, serious once I do.</sub>
-</div>
