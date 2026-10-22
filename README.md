@@ -32,6 +32,7 @@
 ### 在做的项目
 
 > **小幽 Bot** — 基于 NoneBot2 + OneBot v11 的 QQ 机器人
+>
 > 人设对话 · 音乐点播 · 查分与曲绘渲染 · 群娱乐 · 权限与运维
 >
 > 仓库只保留通用部分，部分能力闭源。
@@ -65,6 +66,7 @@
 ### What I'm Building
 
 > **Xiaoyo Bot** — a QQ bot built on NoneBot2 + OneBot v11
+>
 > Persona chat · Music request · Score lookup & image rendering · Group fun · Permissions & ops
 >
 > Only the generic parts are public; some capabilities stay closed-source.
