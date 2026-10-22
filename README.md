@@ -75,10 +75,3 @@
 | Data & Media | SQLite / PostgreSQL · Pillow · ffmpeg |
 | Engineering | Git · GitHub Actions · Logging & process supervision |
 
-### Contact
-
-- **Email**：`1923497173@qq.com`
-- **Website**：[yohon.top](https://yohon.top)
-
----
-
