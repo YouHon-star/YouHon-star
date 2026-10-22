@@ -12,18 +12,18 @@
 ![NoneBot2](https://img.shields.io/badge/NoneBot2-Bot-6C5CE7)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen)
 
-<br/>
+</div>
 
 ---
 
-### About
+## About
 
 - Learning Python, focused on backend & automation — async tasks, protocol clients, image rendering, ops scripting
 - Personal site: [yohon.top](https://yohon.top)
 - Also studying: English / Japanese, Live2D, music composition, microcontrollers & C++
 - How I work: verify the principle before touching anything, move in small steps, always keep a rollback
 
-### What I'm Building
+## What I'm Building
 
 > **Xiaoyo Bot** — a QQ bot built on NoneBot2 + OneBot v11
 >
@@ -31,7 +31,7 @@
 >
 > Only the generic parts are public; some capabilities stay closed-source.
 
-### Stack
+## Stack
 
 | Area | Tools |
 | :--- | :--- |
@@ -41,9 +41,13 @@
 | Data & Media | SQLite / PostgreSQL · Pillow · ffmpeg |
 | Engineering | Git · GitHub Actions · Logging & process supervision |
 
-### 联系
+## Contact
 
 - **Email**：`1923497173@qq.com`
 - **Website**：[yohon.top](https://yohon.top)
 
+---
 
+<div align="center">
+<sub>慢热，但认真。 · Slow to warm up, serious once I do.</sub>
+</div>
