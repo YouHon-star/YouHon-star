@@ -3,6 +3,7 @@
 # 幽鸿 · YoHon
 
 **独立开发者 · 前后端与自动化 · 街机音游玩家**
+
 <sub>*Indie developer · Backend & Automation · Arcade rhythm gamer*</sub>
 
 <br/>
