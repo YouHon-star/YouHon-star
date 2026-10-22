@@ -15,15 +15,10 @@
 
 ## 关于我
 
-- Python学习中，偏后端与自动化：异步任务、协议客户端、图片渲染、运维脚本都折腾过。
-- 有个人小站 [yohon.top](https://yohon.top)，随手记点东西。
+- Python学习中，前后端与自动化：异步任务、协议客户端、图片渲染、运维脚本等
+- 个人博客 [yohon.top](https://yohon.top)
+- 英日语，live2d，作曲编曲，单片机与c++等都在学习中
 
-## 在维护使用的项目
-
-### 小幽 Bot · [Xiaoyo_Bot](https://github.com/YouHon-star/Xiaoyo_Bot)
-
-基于 **NoneBot2 + OneBot v11** 的 QQ 功能型机器人：人设对话、水鱼查分与曲绘渲染、群娱乐、权限与运维。
-仓库只保留通用部分，公开可读；部分能力闭源，需要时请直接联系我。
 
 ## 技术栈
 
