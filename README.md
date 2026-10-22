@@ -20,8 +20,6 @@
 
 ---
 
-## 中文
-
 ### 关于我
 
 - Python 学习中，偏后端与自动化 —— 异步任务、协议客户端、图片渲染、运维脚本
@@ -53,8 +51,6 @@
 - **Website**：[yohon.top](https://yohon.top)
 
 ---
-
-## English
 
 ### About
 
