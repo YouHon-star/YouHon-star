@@ -24,19 +24,12 @@
 - Also studying: English / Japanese, Live2D, music composition, microcontrollers & C++
 - How I work: verify the principle before touching anything, move in small steps, always keep a rollback
 
-## What I'm Building
-
-> **Xiaoyo Bot** — a QQ bot built on NoneBot2 + OneBot v11
->
-> Persona chat · Music request · Score lookup & image rendering · Group fun · Permissions & ops
->
-> Only the generic parts are public; some capabilities stay closed-source.
 
 ## Stack
 
 | Area | Tools |
 | :--- | :--- |
-| Languages | Python · TypeScript (a little) · Shell · SQL |
+| Languages | Python · Java · TypeScript (a little) · Shell · SQL |
 | Frameworks | NoneBot2 · FastAPI · asyncio |
 | Systems | Debian / Ubuntu · systemd · nginx / openresty · Docker · 1Panel |
 | Data & Media | SQLite / PostgreSQL · Pillow · ffmpeg |
