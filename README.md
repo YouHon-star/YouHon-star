@@ -21,7 +21,7 @@
 
 - Learning Python, focused on backend & automation — async tasks, protocol clients, image rendering, ops scripting
 - Personal site: [yohon.top](https://yohon.top)
-- Also studying: English / Japanese, Live2D, music composition, microcontrollers & C++
+- Studying: English / Japanese, Live2D, music composition, microcontrollers & C++
 - How I work: verify the principle before touching anything, move in small steps, always keep a rollback
 
 
